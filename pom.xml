@@ -39,7 +39,7 @@
     <version.dropwizard>1.0.5</version.dropwizard>
     <version.httpcomponents>4.5.2</version.httpcomponents>
     <version.jackson-data-format-yaml>2.8.6</version.jackson-data-format-yaml>
-    <version.junit>4.11</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.mockito>1.9.5</version.mockito>
   </properties>
 
